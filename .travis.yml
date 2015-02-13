@@ -1,4 +1,6 @@
- language: scala
+ language:
+   - scala
+   - php
  
  scala:
    - "2.10.4"
