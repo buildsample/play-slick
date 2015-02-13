@@ -1,6 +1,4 @@
- language:
-  - scala
- 
+ language: scala
  
  scala:
    - "2.10.4"
