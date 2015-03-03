@@ -1,6 +1,6 @@
  language:
    - scala
-   - php
+   - java
   
  scala:
    - "2.10.4"
