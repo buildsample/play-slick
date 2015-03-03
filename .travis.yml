@@ -1,6 +1,6 @@
  language:
    - scala
-   - java
+  # - java
   
  scala:
    - "2.10.4"
